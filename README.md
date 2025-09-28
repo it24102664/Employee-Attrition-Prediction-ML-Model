@@ -24,3 +24,16 @@ In this project, we aim to build a **Machine Learning–based predictive model**
 - **Academic Value**: Helps students understand end-to-end ML pipeline, from raw data to predictive modeling.  
 - **Business Value**: Supports HR in reducing turnover costs, improving employee satisfaction, and identifying key retention factors.  
 - **Practical Value**: Builds teamwork by assigning each preprocessing step to a different member, reflecting real-world ML project collaboration.  
+
+---
+
+## 👥 Group Member Roles
+
+1. **IT24102858 (Perimpam R.Y)** – Missing Value Handling
+2. **IT24102572	(Danansuriya A.T.A.D)** – Categorical Encoding
+3. **IT24102284	Mathushayan V)** – Outlier Detection and Removal   
+4. **IT24102726** –  Normalization 
+5. **IT24102664	(Xavier M.A.J.K)** – Feature Selection
+6. **IT24102673	(Sathsarani R.D.S)** –  & Dimensionality Reduction (PCA) 
+
+---
